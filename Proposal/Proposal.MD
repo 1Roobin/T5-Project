@@ -4,7 +4,7 @@ This Project proposal is for the project of T5 Bootcamp requirements.
 
 # The growth of the temperature over time
 
-As the increase of temperature over time could cause certain issues for the planet, such as global warming[wikipedia](https://www.wikipedia.org)., this project idea came to be to understand how the average temperature is growing over time.
+As the increase of temperature over time could cause certain issues for the planet, such as global warming '[wikipedia](https://www.wikipedia.org)', this project idea came to be to understand the growth of the average temperature over time.
 
 # Aims
 
