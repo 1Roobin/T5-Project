@@ -4,17 +4,17 @@ This Project proposal is for the project of T5 Bootcamp requirements.
 
 # The growth of the temperature over time
 
-As the increase of temperature over time could cause certain issues for the planet, such as global warming, this study came in handy to understand how the average temperature is growing.
-
+As the increase of temperature over time could cause certain issues for the planet, such as global warming[wikipedia](https://www.wikipedia.org)., this project idea came to be to understand how the average temperature is growing over time.
 
 # Aims
 
-Understanding how much temperature is growing, and how much it affects global warming.
-
+To describe the percentage of temperature growth over the years, and build a model to predict the growth for the future years temperature.
 
 # Dataset
 
-I'll use (Daily Temperature of Major Cities) dataset because it gives us daily average temperature values recorded in major cities of the world.
+I'll use [Daily Temperature of Major Cities](https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities/tasks?taskId=1060) dataset that could be found at [Kaggle](www.kaggle.com).
+
+### This database contains observations from 1995 till 2021 for the average temperature
 
 ***
 Dataset Attributes:
@@ -38,10 +38,6 @@ Dataset Attributes:
  7   AvgTemperature  float64
 ***
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 # Tools
 
@@ -53,4 +49,4 @@ Modeling tools (***sklearn***,***Statsmodels***)
 
 # Steps
 
-* We will start by exploring our data (EDA), then we will create a model to predict the overall increase in temperature
+* We will start by exploring our data (EDA), then we will create a model to predict the overall increase in temperature.
