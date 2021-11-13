@@ -4,15 +4,15 @@ This Project proposal is for the project of T5 Bootcamp requirements.
 
 # The growth of the temperature over time
 
-As the increase of temperature over time could cause certain issues for the planet, such as global warming '[wikipedia](https://www.wikipedia.org)', this project idea came to be to understand the growth of the average temperature over time.
+As the increase of temperature over time could cause certain issues for the planet, such as global warming '[wikipedia](https://en.wikipedia.org/wiki/Climate_change)', this project idea came to be to understand the growth of the average temperature over time.
 
 # Aims
 
-To describe the percentage of temperature growth over the years, and build a model to predict the growth of the future years temperature.
+To describe the percentage of temperature growth over the years, and build a model to predict the temperature of the future years.
 
 # Dataset
 
-I'll use [Daily Temperature of Major Cities](https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities/tasks?taskId=1060) dataset that could be found at [Kaggle](www.kaggle.com).
+I'll use [Daily Temperature of Major Cities](https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities/tasks?taskId=1060) dataset that could be found at [Kaggle](https://www.kaggle.com).
 
 * This database contains observations from 1995 till 2021 for the average temperature
 
