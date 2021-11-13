@@ -15,6 +15,7 @@ To describe the percentage of temperature growth over the years, and build a mod
 I'll use [Daily Temperature of Major Cities](https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities/tasks?taskId=1060) dataset that could be found at [Kaggle](https://www.kaggle.com).
 
 * This database contains observations from 1995 till 2021 for the average temperature
+* It contains 2906327 rows by 8 columns
 
 ***
 Dataset Attributes:
