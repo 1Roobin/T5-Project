@@ -21,13 +21,13 @@ Dataset Attributes:
 
 
 
- 0   Region          object 
+ 0   Region          ***object*** 
  
- 1   Country         object 
+ 1   Country         ***object*** 
  
- 2   State           object 
+ 2   State           ***object*** 
  
- 3   City            object 
+ 3   City            ***object*** 
  
  4   Month           ***int64***  
  
